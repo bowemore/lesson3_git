@@ -1,9 +1,10 @@
-def test_first():
+def test_one():
     assert 2 > 1
 
 
-def test_2():
+def test_two():
     assert 3 > 1
+
 
 
 
